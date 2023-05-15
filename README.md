@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **anything related to tech!**
+- 💬 Ask me about **anything related to tech.**
 
 - 📫 How to reach me **bhoomis1020@gmail.com**
 
