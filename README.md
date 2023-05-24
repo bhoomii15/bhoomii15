@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy👋, I'm Bhoomi Sharma!</h1>
+<h1 align="center">Heyyy I'm Bhoomi Sharma!</h1>
 <h3 align="center">Web Development | Data Analysis | UI/UX</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
